@@ -1,5 +1,5 @@
 # Custom-Neural-Network-and-Error-Handling
-Custom Neural Network and Error Handling
+
 
 **# Using TensorFlow and a Custom Model Class (customNeuralNetwork) to do Forward Propagation (OOP)**
 
